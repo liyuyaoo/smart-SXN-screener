@@ -1,5 +1,4 @@
 # smart-SXN-screener
-# smart-SXN-screener
 
 A Python-based toolkit for natural product mass spectrometry data analysis, covering theoretical library construction, flavonoid screening, ginkgolide screening, and diagnostic ion-based compound matching.
 
